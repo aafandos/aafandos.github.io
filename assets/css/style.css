@@ -1,0 +1,59 @@
+body {
+    margin: 1.5em 0;
+    background: #fff;
+    color: #333;
+}
+
+.container {
+    width: 788px;
+    margin: 0 auto;
+}
+
+p {
+    margin-left: 15px;
+}
+
+a {
+    color: #000;
+}
+
+.center {
+    text-align: center;
+}
+
+.pad {
+    padding: 5px;
+}
+
+.navbar {
+    text-align: center;
+    background: #000000;
+    border-radius: 6px 6px 6px 6px;
+}
+
+#toc {
+    padding: 10px;
+    font-size: 120%;
+}
+
+#toc ul {
+    display: inline;
+}
+
+#toc ul li {
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#toc ul li a {
+    color: #75DF0B;
+    text-decoration: none;
+}
+
+ul.a-index li#m-index a, ul.a-about li#m-about a,
+ul.a-projects li#m-projects a {
+    font-weight: bold;
+    color: #EEEEEE;
+    text-decoration: none;
+}
